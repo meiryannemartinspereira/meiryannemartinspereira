@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Meiryanne 👋</h1>
 
 <p align="center">
-Computer Science professional • Backend Engineer • Java
+Computer Science background • Backend Engineer • Java
 </p>
 
 <p align="center">
