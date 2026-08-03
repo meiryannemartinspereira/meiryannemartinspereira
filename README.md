@@ -39,14 +39,6 @@ I enjoy designing scalable backend systems, event-driven architectures, distribu
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=meiryannemartinspereira&theme=tokyonight"/>
-</p>
-
----
-
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)"
