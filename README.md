@@ -10,17 +10,6 @@ I'm a Computer Science graduate and Backend Engineer passionate about building s
 
 ---
 
-## 🚀 About Me
-
-- 💻 Backend Engineer focused on Java and Spring Boot
-- 📨 Experience with Event-Driven Architecture using Kafka and RabbitMQ
-- ☸️ Currently learning Kubernetes and Cloud Native technologies
-- 🐳 Building containerized applications with Docker
-- 🗄️ Experience with SQL and NoSQL databases
-- 🌱 Passionate about Software Architecture and Distributed Systems
-
----
-
 ## 🚀 Tech Stack
 
 ### Languages
