@@ -44,18 +44,6 @@ I'm a Computer Science graduate and Backend Engineer passionate about building s
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🔐 **Duett Auth** | Authentication API built with Spring Boot, JWT, Docker and Kubernetes. |
-| 📦 **Middleware Logistics** | Event-driven middleware for logistics integration using Kafka. |
-| ⚡ **Sync Data Eyetech** | High-performance synchronization service for distributed systems. |
-| 🚀 **SGE** | Inventory Management System built with Django featuring dashboards, stock control and reporting. |
-| 🐍 **FastAPI** | REST API built with Python and FastAPI. |
-
----
-
 ## 📫 Connect with Me
 
 <p align="left">
