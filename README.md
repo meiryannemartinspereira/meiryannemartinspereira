@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Meiryanne 👋</h1>
 
 <p align="center">
-  <strong>Backend Engineer • Computer Science • Java • Distributed Systems</strong>
+  <strong>Backend Engineer • Computer Science • Java • Distributed Systems software • engineer</strong>
 </p>
 
 <p align="center">
