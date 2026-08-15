@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-I'm a Computer Science graduate and Backend Engineer passionate about building scalable backend systems, distributed architectures, and event-driven applications. I enjoy solving complex problems, writing clean and maintainable code, and continuously learning modern cloud-native technologies.
+Backend Engineer passionate about building scalable backend systems, distributed architectures, and event-driven applications. I enjoy solving complex problems, writing clean and maintainable code, and continuously learning modern cloud-native technologies.
 </p>
 
 ---
