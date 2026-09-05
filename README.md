@@ -1,15 +1,5 @@
 <h1 align="center">Hi there, I'm Meiryanne 👋</h1>
 
-<p align="center">
-  <strong>Software Engineer • Java • Distributed Systems</strong>
-</p>
-
-<p align="center">
-Backend Engineer passionate about building scalable backend systems, distributed architectures, and event-driven applications. 
-</p>
-
----
-
 ## 🚀 Tech Stack
 
 ### Languages
