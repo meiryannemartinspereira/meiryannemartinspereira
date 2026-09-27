@@ -15,6 +15,10 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
+### Testing
+
+![Go Testing](https://img.shields.io/badge/Go_Testing-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
 ### Messaging
 
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apache-kafka)
