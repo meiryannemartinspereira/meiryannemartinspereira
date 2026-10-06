@@ -162,15 +162,10 @@
             <div class="window-title">meiryanne@avatar:~</div>
           </div>
           <div class="content">
-            <div class="cmd-line">meiryanne@avatar:~$ display profile.png</div>
+            <div class="cmd-line">meiryanne@avatar:~$ display profile</div>
             <div class="avatar-svg-box">
               <svg width="180" height="180" viewBox="0 0 180 180" xmlns="http://www.w3.org/2000/svg">
-                <defs>
-                  <clipPath id="avatarClip">
-                    <circle cx="90" cy="90" r="82" />
-                  </clipPath>
-                </defs>
-                <circle cx="90" cy="90" r="85" fill="none" stroke="#00ff87" stroke-width="3" />
+   
               </svg>
             </div>
           </div>
