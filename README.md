@@ -10,7 +10,7 @@
 
 - **Agentic AI & LLM Systems:** Building autonomous AI agents, RAG architectures, and implementing evaluation pipelines to benchmark model performance and accuracy.
 - **Backend & Distributed Systems:** Designing scalable microservices and event-driven architectures with **Java (Spring Boot)**, **Go**, and **Python (FastAPI/Django)**.
-- **Data Engineering & Event Streaming:** Managing real-time data flow and messaging infrastructure using **Apache Kafka**, **RabbitMQ**, and database layers (**PostgreSQL**, **MongoDB**, **Vector DBs**).
+- **Data Engineering & Event Streaming:** Managing real-time data flow and messaging infrastructure using **Apache Kafka**, and database layers (**PostgreSQL**, **MongoDB**, **Vector DBs**).
 - **Cloud Native & DevOps:** Containerized deployments and infrastructure orchestration using **Docker**, **Kubernetes**, and **Linux**.
 
 ---
