@@ -188,8 +188,6 @@
 
             <div class="info-list">
               <div class="info-item">📍 <span class="highlight">Location:</span> Brazil · remote-friendly</div>
-              <div class="info-item">🤖 <span class="highlight">AI &amp; Data:</span> Agentic AI, Agent Evaluation &amp; RAG Systems</div>
-              <div class="info-item">🛠️ <span class="highlight">Backend:</span> Java (Spring Boot), Go, Python</div>
               <div class="info-item">✉️ <span class="highlight">Email:</span> meirympereira@gmail.com</div>
             </div>
 
@@ -201,8 +199,11 @@
               <div class="skill-pill">Java</div>
               <div class="skill-pill">Go</div>
               <div class="skill-pill">Spring Boot</div>
+              <div class="skill-pill">FastAPI</div>
               <div class="skill-pill">Kafka</div>
               <div class="skill-pill">PostgreSQL</div>
+              <div class="skill-pill">MongoDB</div>
+              <div class="skill-pill">ReactJS</div>
               <div class="skill-pill">Docker</div>
               <div class="skill-pill">Kubernetes</div>
             </div>
