@@ -1,22 +1,20 @@
-<div align="center">
-  <a href="https://github.com/meiryannemartinspereira">
-    <img alt="Meiryanne Martins Pereira — Software & AI Systems Engineer" src="https://raw.githubusercontent.com/meiryannemartinspereira/meiryannemartinspereira/main/readmefile/dark.svg" width="100%">
-  </a>
-</div>
+### 🏛 Recognized Track Record & Key Focus
 
----
+- **Backend Engineering & Distributed Systems:** Developing backend services and microservices with **Java (Spring Boot)** and **Python (FastAPI)**, building REST APIs and event-driven architectures, and integrating asynchronous messaging and data persistence.
 
-### 🏛 Recognized track record & key focus
+- **Data Engineering & Streaming:** Working with **Apache Kafka**, real-time vehicle telemetry, data integration, and relational and NoSQL databases, including **PostgreSQL, Oracle, and MongoDB**. Exploring ETL pipelines, data quality, and analytical data preparation.
 
-- **Agentic AI & LLM Systems:** Building autonomous AI agents, RAG architectures, and implementing evaluation pipelines to benchmark model performance and accuracy.
-- **Backend & Distributed Systems:** Designing scalable microservices and event-driven architectures with **Java (Spring Boot)**, **Go**, and **Python (FastAPI/Django)**.
-- **Data Engineering & Event Streaming:** Managing real-time data flow and messaging infrastructure using **Apache Kafka**, and database layers (**PostgreSQL**, **MongoDB**, **Vector DBs**).
-- **Cloud Native & DevOps:** Containerized deployments and infrastructure orchestration using **Docker**, **Kubernetes**, and **Linux**.
+- **Agentic AI & LLM Evaluation:** Exploring agent architectures, **Retrieval-Augmented Generation (RAG)**, and evaluation workflows for LLM-based systems. Conducting technical research on agent trajectory formats, interoperability, and open-source evaluation frameworks.
+
+- **Cloud-Native Development & Delivery:** Containerizing applications with **Docker and Docker Compose**, working in Linux environments, and managing database migrations, application configuration, version control, and production deployment workflows.
+
+- **Data Analytics & Business Intelligence:** Developing hands-on projects in **SQL, Python, data transformation, validation, KPI analysis, and analytical modeling**, with an emphasis on data reliability and business-oriented insights.
+
+- **Open-Source Research & Technical Prototyping:** Investigating issues in the LangChain ecosystem, documenting implementation approaches, and building proof-of-concept solutions to explore technical feasibility and interoperability.
 
 ---
 
 ### 📬 Contact & Links
 
 - **LinkedIn:** [linkedin.com/in/meiryannemartinspereira](https://linkedin.com/in/meiryannemartinspereira)
-- **Email:** `meirympereira@gmail.com`
-
+- **Email:** meirympereira@gmail.com
