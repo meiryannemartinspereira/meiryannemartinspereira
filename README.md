@@ -8,8 +8,6 @@
 
 - **Cloud-Native Development & Delivery:** Containerizing applications with **Docker and Docker Compose**, working in Linux environments, and managing database migrations, application configuration, version control, and production deployment workflows.
 
-- **Data Analytics & Business Intelligence:** Developing hands-on projects in **SQL, Python, data transformation, validation, KPI analysis, and analytical modeling**, with an emphasis on data reliability and business-oriented insights.
-
 - **Open-Source Research & Technical Prototyping:** Investigating issues in the LangChain ecosystem, documenting implementation approaches, and building proof-of-concept solutions to explore technical feasibility and interoperability.
 
 ---
